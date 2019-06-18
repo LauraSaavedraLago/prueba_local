@@ -1,11 +1,1 @@
-﻿prueba de fichero para subir. 
-
-! coment
-!y añado comentario
-
-!sañado esta linea en local
-
-! ponemos una linea mas en el fichero Laura.txt
-
-
-!Cambio esto e
+﻿prueba de fichero para subir
