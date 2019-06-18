@@ -1,4 +1,6 @@
 prueba de fichero para subir. 
 
 ! coment
-!y a�ado comentario
+!y añado comentario
+
+!sañado esta linea en local
