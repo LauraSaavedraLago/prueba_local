@@ -1,0 +1,46 @@
+git ignore: lista de ficheros que no queremos que se sometan a control de versiones.
+
+tenemos acceso a repositorios ilimitads(privados?) organización
+
+el de escritorio siempre es privado, y en github.com es publico en general
+
+en el ignore hay una extensión de ficheros auxiliares que debe ignorar en control 
+de versiones. por ejemplo en Tex va a ignorar el aux etc. 
+
+Licencia: 
+
+--Clonamos en el githubDes (es una copia local)
+--Podemos crear repositorios en local tb_ menu-file-newrepo, para publicarlo, publish repository
+
+--commit, y luego hay que darle al push para ponerlo en la nube. 
+-Podemos modificar texto en github tb
+-pull: de remoto a local
+-push: al revés. 
+
+-Antes de hacer nada: pull
+
+-Hago fetch origin en versión escritorio, y me dice los cambios que hay y luego pulso pull+
+
+Cuando abro el fichero aparece justo la misma versión que en la web.
+
+¿Como se va a una versión anterior?¿Como resolver conflictos?
+
+WEB Interesante: diap 8 (libro que documenta todo el proceso) y el curso diap 9
+
+RAMAS
+-Al crear una rama no veo otra carpeta local
+-Seleccionas master y haces merge into current... y elijo de la que quiero traer los cambios
+-Si no tiene conflictos lo  hace automaticamente
+
+
+HEAD es el cambio en master y ====== indica el conflicto en ese trozo. OJO que hay que
+borrar esas lineas auxiliares que genera git hub
+
+
+--ISSUES
+
+
+-Cuenta de organizacion
+
+
+
